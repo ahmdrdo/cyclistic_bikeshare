@@ -14,3 +14,9 @@ Lily Moreno, the director of marketing and my manager for this case, set a plan 
 My work in this analysis focused to **identify how annual members and casual riders diﬀer**. Insights from this analysis will be used to help the marketing in building their marketing strategies.
 
 Dataset used in this analysis is available [here](https://divvy-tripdata.s3.amazonaws.com/index.html) along with the [license](https://ride.divvybikes.com/data-license-agreement).
+
+**Resources**:  
+* Published GitHub page [https://ahmdrdo.github.io/cyclistic_bikeshare/](https://ahmdrdo.github.io/cyclistic_bikeshare/)
+* [Presentation](resources/cyclistic_presentation_pdf.pdf) (pdf format)
+* [Report](resources/report_cyclistic_bikeshare.pdf) (pdf format)
+* [R script](https://gist.github.com/ahmdrdo/ab1e08faa0c62546e14d0bcb22413702) used for analysis
