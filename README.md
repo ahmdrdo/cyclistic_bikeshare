@@ -17,6 +17,6 @@ Dataset used in this analysis is available [here](https://divvy-tripdata.s3.amaz
 
 **Resources**:  
 * Published GitHub page [https://ahmdrdo.github.io/cyclistic_bikeshare/](https://ahmdrdo.github.io/cyclistic_bikeshare/)
-* [Presentation](resources/cyclistic_presentation_pdf.pdf) (pdf format)
-* [Report](resources/report_cyclistic_bikeshare.pdf) (pdf format)
+* [Presentation](https://github.com/ahmdrdo/cyclistic_bikeshare/blob/622912999ee8c6fe9b2f390535cbdb9e59977c15/resources/cyclistic_presentation_pdf.pdf) (pdf format)
+* [Report](https://github.com/ahmdrdo/cyclistic_bikeshare/blob/622912999ee8c6fe9b2f390535cbdb9e59977c15/resources/cyclistic_report.pdf) (pdf format)
 * [R script](https://gist.github.com/ahmdrdo/ab1e08faa0c62546e14d0bcb22413702) used for analysis
